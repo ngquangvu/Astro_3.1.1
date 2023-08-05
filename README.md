@@ -1,5 +1,7 @@
 # Astro Starter Kit: Basics
 
+# Test Astro 3.1.1 View transition
+
 ```
 npm create astro@latest -- --template basics
 ```
